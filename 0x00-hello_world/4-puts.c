@@ -1,15 +1,10 @@
 #include<stdio.h>
 
-/* file 04 */
-
 /**
- * file 04 exercise
- *
- * main: function outputs text
- *
- * puts: prints character to the shell
+ * main: entry point to the program
  *
  * Return: outputs integer 0
+ *
  */
 
 int main(void)
