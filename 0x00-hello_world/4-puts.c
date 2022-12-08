@@ -8,7 +8,7 @@
  */
 
 /**
- * return returns 0
+ * return - returns 0
  */
 
 int main(void)
