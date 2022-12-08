@@ -8,6 +8,8 @@
  * return(0):  outputs 0
  */
 
+/* return returns 0 value */
+
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
