@@ -4,11 +4,8 @@
 
 /**
  * main - function outputs text
+ * puts - prints character to the shell
  * return:  outputs 0
- */
-
-/**
- * return - returns 0
  */
 
 int main(void)
