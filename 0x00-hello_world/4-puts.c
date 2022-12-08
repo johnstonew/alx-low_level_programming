@@ -4,6 +4,8 @@
 
 /**
  * main -function starts here
+ *
+ * return - returns 0
  */
 int main(void)
 {
