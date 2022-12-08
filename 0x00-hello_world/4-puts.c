@@ -3,7 +3,7 @@
 /* file 04 */
 
 /**
- * main function outputs text
+ * main - function outputs text
  * return:  outputs 0
  */
 int main(void)
