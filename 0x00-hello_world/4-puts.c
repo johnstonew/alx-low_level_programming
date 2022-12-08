@@ -1,15 +1,16 @@
 #include<stdio.h>
 
 /**
- * function description
- *
- * main: Prints "Programming is like building a multilingual puzzle
- *
- * Return: Always 0.
+ * file 04
  *
  */
 int main(void)
 {
+	/**
+	 * main - main input of program
+	 *
+	 * return: returns 0
+	 */
 
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
