@@ -1,14 +1,9 @@
 #include<stdio.h>
 
 /**
- * Program that outputs string of text to the shell
+ * main - Entry point
  *
- * main: entry point to the program
- *
- * Puts: prints the text to the shell
- *
- * Return: outputs integer 0
- *
+ * Return: Always 0 (Success)
  */
 
 int main(void)
