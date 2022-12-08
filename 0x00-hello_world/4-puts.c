@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 /**
- * main function
+ * function description
  *
  * main: Prints "Programming is like building a multilingual puzzle
  *
