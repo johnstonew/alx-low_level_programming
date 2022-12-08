@@ -3,9 +3,11 @@
 /* file 04 */
 
 /**
- * main - function outputs text
- * puts - prints character to the shell
- * return(0):  outputs 0
+ * main: function outputs text
+ *
+ * puts: prints character to the shell
+ *
+ * Return: outputs integer 0
  */
 
 /* return returns 0 value */
