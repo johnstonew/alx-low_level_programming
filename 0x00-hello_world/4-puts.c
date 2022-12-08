@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 /**
- *Program that outputs string of text to the shell
+ * Program that outputs string of text to the shell
  *
  * main: entry point to the program
  *
