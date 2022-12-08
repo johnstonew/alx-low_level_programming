@@ -1,6 +1,11 @@
 #include<stdio.h>
 
-/* Description: Main starting point of program */
+/**
+ * main - Prints "Programming is like building a multilingual puzzle, followed b a new line.
+ *
+ * Return: Always 0.
+ *
+ */
 int main(void)
 {
 
