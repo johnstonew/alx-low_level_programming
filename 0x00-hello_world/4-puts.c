@@ -3,6 +3,8 @@
 /**
  * main: entry point to the program
  *
+ * Puts: prints the text to the shell
+ *
  * Return: outputs integer 0
  *
  */
