@@ -4,6 +4,7 @@
 
 /**
  * file 04 exercise
+ *
  * main: function outputs text
  *
  * puts: prints character to the shell
