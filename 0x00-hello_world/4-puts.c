@@ -1,6 +1,8 @@
 #include<stdio.h>
 
 /* file 04 */
+
+/* main function starts here */
 int main(void)
 {
 	/**
