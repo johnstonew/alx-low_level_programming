@@ -3,10 +3,8 @@
 /* file 04 */
 
 /**
- * main -function outputs "Programming is like building a multilingual puzzle
- *
- * Description: returns the above string
- * return  outputs 0
+ * main function outputs text
+ * return:  outputs 0
  */
 int main(void)
 {
