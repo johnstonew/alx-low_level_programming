@@ -3,7 +3,7 @@
 /* file 04 */
 
 /**
- * main -function starts here
+ * main -function outputs "Programming is like building a multilingual puzzle
  *
  * return  outputs 0
  */
