@@ -6,7 +6,6 @@
  */
 int main(void)
 {
-	char n;
 	int num;
 
 	for (num = 0; num <= 9; num++)
@@ -17,7 +16,7 @@ int main(void)
 			putchar(',');
 			putchar(' ');
 		}
-	}
+	i}
 		putchar('\n');
 
 		return (0);
