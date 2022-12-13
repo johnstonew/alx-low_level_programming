@@ -25,9 +25,12 @@ void print(void)
 
 void print_alphabet(void)
 {
-	for (int ch='a'; ch <= 'z'; ch++)
+	int ch = 'a';
+
+	while (ch <= 'z')
 	{
 		putchar(ch);
+		ch ++;
 	}
 	putchar('\n');
 }
