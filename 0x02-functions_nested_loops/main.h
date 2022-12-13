@@ -23,14 +23,4 @@ void print(void)
  * print_aphabet - prints alphabets
  */
 
-void print_alphabet(void)
-{
-	int ch = 'a';
-
-	while (ch <= 'z')
-	{
-		putchar(ch);
-		ch ++;
-	}
-	putchar('\n');
-}
+void print_alphabet(void);
