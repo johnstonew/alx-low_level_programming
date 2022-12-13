@@ -18,3 +18,16 @@ void print(void)
 
 
 }
+
+/**
+ * print_aphabet - prints alphabets
+ */
+
+void print_alphabet(void)
+{
+	for (int ch='a'; ch <= 'z'; ch++)
+	{
+		putchar(ch);
+	}
+	putchar('\n');
+}
