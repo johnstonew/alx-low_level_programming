@@ -4,7 +4,7 @@
  * print - prints putchar
  */
 
-void print(void)
+void print_putchar(void)
 {
 	putchar('_');
 	putchar('p');
