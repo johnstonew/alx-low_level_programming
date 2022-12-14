@@ -12,6 +12,9 @@ int main(void)
 	return (0);
 }
 
+/**
+ * print_putchar - prints characters 
+ */
 void print_putchar(void)
 {
 	putchar('_');
