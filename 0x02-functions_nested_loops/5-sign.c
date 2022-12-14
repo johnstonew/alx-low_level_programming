@@ -2,7 +2,7 @@
 
 /**
  * print_sign - identify if it's lowest number
- * @c: The character to be inspected
+ * @n: The character to be inspected
  *
  * Return: 1 for lowercase character or 0 for anything else
  */
