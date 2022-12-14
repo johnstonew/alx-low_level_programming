@@ -8,10 +8,10 @@ _islower(int c)
 {
 	if (islower(c))
 	{
-		putchar(1 + '0');
+		return (1);
 	}
 	else
 	{
-		putchar(0 + '0');
+		return (0);
 	}
 }
