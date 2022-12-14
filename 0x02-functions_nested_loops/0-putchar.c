@@ -13,7 +13,7 @@ int main(void)
 }
 
 /**
- * print_putchar - prints characters 
+ * print_putchar - prints characters
  */
 void print_putchar(void)
 {
