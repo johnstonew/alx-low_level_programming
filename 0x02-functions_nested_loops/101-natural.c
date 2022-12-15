@@ -16,7 +16,7 @@ int main(void)
 		{
 			b++;
 		}
-		a++
+		a++;
 	}
 	printf("%d\n", b);
 
