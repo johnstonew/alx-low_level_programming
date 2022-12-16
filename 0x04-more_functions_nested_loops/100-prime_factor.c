@@ -17,7 +17,7 @@ int main(void)
 	{
 		if (number % x == 0)
 		{
-			axf = number / x;
+			maxf = number / x;
 		}
 	}
 
