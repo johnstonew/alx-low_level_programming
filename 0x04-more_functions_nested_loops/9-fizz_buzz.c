@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include "main.h"
 /**
  * main - prints the numbers from 1 to 100
  *
@@ -29,6 +29,9 @@ int main(void)
 		else
 		{
 			printf("%d", x);
+		}
+		if (x != 100)
+		{
 			printf(" ");
 		}
 	}
