@@ -9,11 +9,13 @@ void print_line(int n)
 {
 	if (n <= 0)
 		putchar('\n');
-
-	for (; n > 0; n--)
+	else
 	{
-		putchar(95);
-	}
+		for (; n > 0; n--)
+		{
+			putchar(95);
+		}
 
-	putchar('\n');
+		putchar('\n');
+	}
 }
