@@ -9,11 +9,10 @@
 void _puts(char *str)
 {
 	int i;
-	char word[strlen(str)];
 
-	for (i = 0; i < strlen(str); i++)
+	for (i = 0; str[i] != '\0'; i++)
 	{
-		word[i] = str[i];
+		printf("%c", str[i]);
 	}
-	puts(word);
+	printf("\n");
 }
