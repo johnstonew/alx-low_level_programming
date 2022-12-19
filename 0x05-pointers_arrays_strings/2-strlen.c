@@ -10,5 +10,7 @@
 
 int _strlen(char *s)
 {
-	return (strlen(*s));
+	int ptr = *s;
+
+	return (strlen(ptr));
 }
