@@ -9,11 +9,11 @@
 void rev_string(char *s)
 {
 	int i;
-	char text[] = *s;
+	char text[] = s;
 
 	for (i = strlen(text) - 1; i >= 0; i--)
 	{
-		printf("%c", s[text]);
+		printf("%c", text[i]);
 	}
 	printf("\n");
 }
