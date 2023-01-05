@@ -17,9 +17,6 @@ void _print_rev_recursion(char *s)
 		return;
 	}
 
-	while (len > 0)
-	{
-		printf("%c", s[len]);
-		 len--;
-	}
+	_print_rev_recursion(s + 1);
+	printf("%c", *s);
 }
