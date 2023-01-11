@@ -19,7 +19,7 @@ char *_strdup(char *str)
 	for (x = 0; str[x] != '\0'; x++)
 		;
 
-	newstr = malloc(sizeof(str) * (i + 1));
+	newstr = malloc(sizeof(str) * (x + 1));
 
 	if (newstr == NULL)
 		return (NULL);
