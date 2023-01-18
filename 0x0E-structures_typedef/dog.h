@@ -1,8 +1,6 @@
 #ifndef _DOG_FILE_
 #define _DOG_FILE_
 
-void init_dog(struct dog *d, char *name, float age, char *owner);
-
 /**
  * struct dog - Dog attributes
  * @name: The name of the dog
