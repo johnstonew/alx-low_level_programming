@@ -3,8 +3,8 @@
 #include "hash_tables.h"
 
 /**
- * hash_table_t - hastable function
- *
+ * hash_table_create - hastable function
+ * @size: size of array
  * Return: Returns a pointer to the newly created hash table
  */
 
